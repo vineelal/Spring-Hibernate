@@ -33,16 +33,6 @@
 		<h10>${element.batsmen} ${element.runs}</h10>
 		<br>
 	</c:forEach>
-	<br>
-	<br>
-	<br> 
-   	<h1>MTeam2</h1>
-	<c:forEach items="${MTeam2}" var="element">
-		<h10>${element.batsmen} ${element.runs}</h10>
-		<br>
-	</c:forEach>
-	<br>
-	<br>
-	<br>
+	
 </body>
 </html>
